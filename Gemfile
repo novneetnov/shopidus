@@ -13,7 +13,7 @@ gem 'jbuilder', '~> 2.5'
 gem 'solidus'
 gem 'solidus_auth_devise'
 gem 'bootstrap-sass'
-
+gem "jquery-validation-rails"
 
 group :development, :test do
   gem 'byebug', platform: :mri
