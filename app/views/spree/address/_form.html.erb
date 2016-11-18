@@ -3,7 +3,7 @@
 <div class="inner" data-hook=<%="#{address_type}_inner" %>>
   <div class="field form-group" id=<%="#{address_id}firstname" %>>
     <%= form.label :firstname, Spree.t(:first_name) %><span class="required">*</span><br />
-    <%= form.text_field :firstname, :class => 'requiredi form-control' %>
+    <%= form.text_field :firstname, :class => 'required form-control' %>
   </div>
   <div class="field form-group" id=<%="#{address_id}lastname" %>>
     <%= form.label :lastname, Spree.t(:last_name) %><span class="required">*</span><br />
