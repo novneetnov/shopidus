@@ -1,24 +1,13 @@
-# README
+# E-commerce Test App with Solidus   
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a customized frontend e-commerce App with [Solidus](https://solidus.io/) in the backend.
+Solidus is an extremely customizable E-commerce platform build with Ruby on Rails. It is a fork
+of the famous e-commerce platform Spree. 
 
-Things you may want to cover:
+## The App is Hosted on Heroku on the folowing link  
+[]()
 
-* Ruby version
+## Todos: 
+- Payments Integration
 
-* System dependencies
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
