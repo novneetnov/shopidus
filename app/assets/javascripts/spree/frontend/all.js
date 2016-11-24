@@ -6,3 +6,4 @@
 //= require bootstrap-sprockets
 //= require spree/frontend/cart
 //= require spree/frontend/checkout/address
+//= require spree/frontend/product

@@ -1,0 +1,7 @@
+<div class="panel panel-default">
+	<% if defined?(image) && image %>
+		<%= image_tag image.attachment.url(:product), itemprop: "image", class: "panel-body" %>
+	<% else %>
+		<%= image_tag @product.display_image.attachment(:product), itemprop: "image", class: "panel-body" %>
+	<% end %>
+</div>
